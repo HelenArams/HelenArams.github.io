@@ -12,7 +12,7 @@ export const EXPERIENCE: TimelineItem[] = [
   {
     isCurrent: true,
     role: 'Lead Senior Java / Go Developer · Team Lead',
-    company: 'Licensed Digital Banking Platform · Frankfurt (Remote)',
+    company: 'Licensed Digital Banking Platform · Remote',
     date: 'Dec 2022 — Present',
     description: 'Leading backend engineering for a licensed card issuing platform serving 20M+ cardholders across multiple markets.',
     achievements: [
