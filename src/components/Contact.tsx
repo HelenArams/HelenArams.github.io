@@ -11,7 +11,7 @@ export default function Contact() {
             <p>Whether you have a question, a project, or just want to say hi — my inbox is always open.</p>
           </div>
           <div className="contact-links">
-            <a href="https://www.linkedin.com/in/helen-golang-java-ai-engineer/" target="_blank" rel="noreferrer" className="contact-card">
+            <a href="https://www.linkedin.com/in/helen-aramyan/" target="_blank" rel="noreferrer" className="contact-card">
               <div className="contact-icon">in</div>
               <span>LinkedIn</span>
             </a>
