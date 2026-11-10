@@ -6,6 +6,8 @@ const COMMANDS = [
   'migrate --cardholders 1000000 --status success',
   'kubectl get pods -n payments',
   'git push origin feature/visa-integration',
+  'go test -race ./... # settlement-recon',
+  'mcp serve --tools decline-codes,runbooks',
 ]
 
 export function useTypewriter() {

@@ -35,4 +35,19 @@ export const ACHIEVEMENTS: Achievement[] = [
     title: 'Enterprise Connectors',
     description: 'Built production integrations for Adobe Fusion: Outlook, Salesforce, Jira, Workday — handling 5M+ daily API calls.',
   },
+  {
+    icon: '🔐',
+    title: '3DS2 & Tokenization',
+    description: 'Delivered 3DS2 cardholder authentication, VTS / MDES tokenization and PCI-DSS compliant card lifecycle management.',
+  },
+  {
+    icon: '🧪',
+    title: 'Coverage 45% to 85%',
+    description: 'Rewrote critical legacy Java code at Workfront, cutting technical debt by 40% and nearly doubling test coverage.',
+  },
+  {
+    icon: '🤖',
+    title: 'AI in Engineering',
+    description: 'Building RAG pipelines, LangGraph agents and MCP servers to bring AI into payments engineering and operations.',
+  },
 ]

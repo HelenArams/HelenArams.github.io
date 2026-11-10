@@ -31,10 +31,10 @@ function BlogCard({ post }: { post: typeof BLOG_POSTS[0] }) {
 
 export default function Blog() {
   return (
-    <section className="section" id="blog">
+    <section className="section section-alt" id="blog">
       <div className="container">
         <h2 className="section-title">
-          <span className="section-number">05.</span> Blog
+          <span className="section-number">07.</span> Blog
         </h2>
         <p className="section-subtitle">Thoughts on engineering, payments, and distributed systems.</p>
         <div className="blog-grid">

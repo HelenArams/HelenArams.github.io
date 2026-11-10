@@ -1,6 +1,6 @@
 import { useTypewriter } from '../hooks/useTypewriter'
 
-const TAGS = ['ex-Adobe', '1M+ Card Migration', 'Visa / Mastercard', 'AWS', 'Open to Remote B2B']
+const TAGS = ['ex-Adobe', 'Team Lead', '1M+ Card Migration', 'Visa / Mastercard', '10K+ TPS', 'AWS / GCP', 'AI & Agentic Engineering', 'Open to Remote B2B']
 
 export default function Hero() {
   const text = useTypewriter()

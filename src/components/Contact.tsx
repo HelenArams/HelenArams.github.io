@@ -1,9 +1,9 @@
 export default function Contact() {
   return (
-    <section className="section section-alt" id="contact">
+    <section className="section" id="contact">
       <div className="container">
         <h2 className="section-title">
-          <span className="section-number">06.</span> Get in Touch
+          <span className="section-number">08.</span> Get in Touch
         </h2>
         <div className="contact-content">
           <div className="contact-text">
@@ -14,6 +14,10 @@ export default function Contact() {
             <a href="https://www.linkedin.com/in/helen-golang-java-ai-engineer/" target="_blank" rel="noreferrer" className="contact-card">
               <div className="contact-icon">in</div>
               <span>LinkedIn</span>
+            </a>
+            <a href="https://github.com/HelenArams" target="_blank" rel="noreferrer" className="contact-card">
+              <div className="contact-icon">gh</div>
+              <span>GitHub</span>
             </a>
             <a href="mailto:helen.aramyan@gmail.com" className="contact-card">
               <div className="contact-icon">@</div>

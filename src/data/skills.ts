@@ -70,4 +70,34 @@ export const SKILLS: SkillCategory[] = [
       { name: 'LLM Integration', level: 60 },
     ],
   },
+  {
+    icon: '📡',
+    title: 'Messaging & APIs',
+    skills: [
+      { name: 'Kafka / NATS', level: 85 },
+      { name: 'RabbitMQ / SQS / SNS', level: 80 },
+      { name: 'gRPC / Protobuf / Avro', level: 75 },
+      { name: 'GraphQL', level: 65 },
+    ],
+  },
+  {
+    icon: '📈',
+    title: 'Observability',
+    skills: [
+      { name: 'Datadog', level: 85 },
+      { name: 'Prometheus / Grafana', level: 80 },
+      { name: 'OpenTelemetry', level: 75 },
+      { name: 'Sentry', level: 75 },
+    ],
+  },
+  {
+    icon: '🧠',
+    title: 'AI Engineering',
+    skills: [
+      { name: 'LangChain / LangGraph', level: 70 },
+      { name: 'MCP Servers & Agents', level: 70 },
+      { name: 'Vector DBs (Qdrant, Pinecone)', level: 65 },
+      { name: 'Bedrock / Vertex AI', level: 65 },
+    ],
+  },
 ]
