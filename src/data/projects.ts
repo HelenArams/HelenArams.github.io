@@ -39,6 +39,12 @@ export const PROJECTS: Project[] = [
     url: GH + 'idempotency-spring-starter',
   },
   {
+    name: 'fraud-triage-agent',
+    tag: 'AI · LangGraph · Bedrock',
+    description: 'Triage agent for suspicious card transactions: rule-based risk scoring, Claude investigation with tools via Anthropic API or AWS Bedrock, guardrails, and human-in-the-loop review.',
+    url: GH + 'fraud-triage-agent',
+  },
+  {
     name: 'decline-code-assistant',
     tag: 'AI · LangGraph · MCP',
     description: 'Agent on Claude that explains why card transactions declined, grounded in a curated knowledge base with citations. Also runs as an MCP server.',
